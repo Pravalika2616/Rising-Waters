@@ -77,13 +77,16 @@ There is a vital requirement for an accessible, low-latency machine learning too
 Visual walk-through of the interface, predictive calculations, and pipeline outputs:
 
 ### 1. Web Application Interface
-![Web Application Interface](screenshots/home-page.png)
+!<img width="1920" height="874" alt="image" src="https://github.com/user-attachments/assets/fa04c1b4-3767-47da-b691-f02f9875d05f" />
+](screenshots/home-page.png)
 
 ### 2. Flood Prediction Result
-![Flood Prediction Result](screenshots/prediction-result.png)
+!<img width="1920" height="861" alt="image" src="https://github.com/user-attachments/assets/101b691b-58ba-44ae-98c6-fe7005c873ab" />
+](screenshots/prediction-result.png)
 
 ### 3. Model Visualization
-![Model Visualization](screenshots/model-output.png)
+!<img width="1920" height="868" alt="image" src="https://github.com/user-attachments/assets/fe81c3f6-2b5e-48f0-bac5-b88b0f9a18cb" />
+](screenshots/model-output.png)
 
 ---
 
@@ -296,7 +299,7 @@ The system can be deployed directly to cloud services such as **Render**, **Hero
 
 ## ✍️ Author
 
-**Pravalika** (Lead Developer)  
+**Pravalika Simma** (Lead Developer)  
 Created with a focus on leveraging data science and machine learning for disaster mitigation, early warning systems, and community safety.
 
 For support, feedback, or collaborations, feel free to raise an issue or reach out through the project repository.
