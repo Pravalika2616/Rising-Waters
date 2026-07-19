@@ -72,6 +72,21 @@ There is a vital requirement for an accessible, low-latency machine learning too
 
 ---
 
+## 📸 Project Screenshots
+
+Visual walk-through of the interface, predictive calculations, and pipeline outputs:
+
+### 1. Web Application Interface
+![Web Application Interface](screenshots/home-page.png)
+
+### 2. Flood Prediction Result
+![Flood Prediction Result](screenshots/prediction-result.png)
+
+### 3. Model Visualization
+![Model Visualization](screenshots/model-output.png)
+
+---
+
 ## 📂 Folder Structure
 
 ```text
@@ -106,6 +121,10 @@ Rising-Waters/
 │   ├── Project Demo Planning.pdf
 │   ├── Scalability & Future Plan.pdf
 │   └── Team Involvement in Demonstration.pdf
+├── screenshots/                         # Portfolio application screenshots
+│   ├── home-page.png
+│   ├── model-output.png
+│   └── prediction-result.png
 └── Rising_Waters_Project_Files/         # Core codebase & project resources
     ├── app.py                           # Flask web application entry point
     ├── requirements.txt                 # Project dependencies
