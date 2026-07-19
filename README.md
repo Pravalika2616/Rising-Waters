@@ -90,6 +90,20 @@ Visual walk-through of the interface, predictive calculations, and pipeline outp
 
 ---
 
+## 🎥 Live Demo
+
+A comprehensive walk-through demonstrating the real-time predictive capability and operational pipeline:
+
+[Watch Live Demo Video](demo/rising-waters-demo.mp4)
+
+The demo showcases the complete workflow:
+* **User Input**: Inputting local meteorological and seasonal rainfall metrics.
+* **Flood Prediction Process**: Real-time feature scaling and inference processing through the champion XGBoost Classifier.
+* **Prediction Result**: Displays the warning or safe forecast screen along with calculated prediction confidence rates and pre-emptive advisories.
+* **Visualization Output**: View of generated exploratory charts (distribution plots, boxplots, correlation heatmap) and model comparisons.
+
+---
+
 ## 📂 Folder Structure
 
 ```text
@@ -124,6 +138,8 @@ Rising-Waters/
 │   ├── Project Demo Planning.pdf
 │   ├── Scalability & Future Plan.pdf
 │   └── Team Involvement in Demonstration.pdf
+├── demo/                                # Live demo video assets
+│   └── rising-waters-demo.mp4
 ├── screenshots/                         # Portfolio application screenshots
 │   ├── home-page.png
 │   ├── model-output.png
