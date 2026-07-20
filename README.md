@@ -94,7 +94,7 @@ Visual walk-through of the interface, predictive calculations, and pipeline outp
 
 A comprehensive walk-through demonstrating the real-time predictive capability and operational pipeline:
 
-[Watch Live Demo Video](demo/rising-waters-demo.mp4)
+[Watch Live Demo Video](https://drive.google.com/file/d/15d2GuuEyP912i229FnlPPryshDNQVJhJ/view?usp=drivesdk)
 
 The demo showcases the complete workflow:
 * **User Input**: Inputting local meteorological and seasonal rainfall metrics.
